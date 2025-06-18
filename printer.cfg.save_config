@@ -23,6 +23,7 @@
 #*# [scanner]
 #*# scanner_touch_threshold = 3750
 #*# scanner_touch_speed = 2
+#*# mode = scan
 #*#
 #*# [bed_mesh default]
 #*# version = 1
