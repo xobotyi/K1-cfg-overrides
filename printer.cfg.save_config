@@ -15,16 +15,16 @@
 #*# pid_kd = 43.625
 #*#
 #*# [input_shaper]
-#*# shaper_type_x = mzv
-#*# shaper_freq_x = 55.8
+#*# shaper_type_x = zv
+#*# shaper_freq_x = 55.4
 #*# shaper_type_y = zv
-#*# shaper_freq_y = 51.6
+#*# shaper_freq_y = 52.0
 #*#
 #*# [scanner]
 #*# mode = touch
 #*# scanner_touch_threshold = 3600
 #*# scanner_touch_speed = 2
-#*# scanner_touch_z_offset = 0.060
+#*# scanner_touch_z_offset = 0.040
 #*#
 #*# [scanner model default]
 #*# model_coef = 1.4684362862288782,
