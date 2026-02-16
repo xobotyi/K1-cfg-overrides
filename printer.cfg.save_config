@@ -4,42 +4,12 @@
 #*#
 #*# [heater_bed]
 #*# control = pid
-#*# pid_kp = 61.794
-#*# pid_ki = 0.578
-#*# pid_kd = 1652.213
+#*# pid_kp = 62.060
+#*# pid_ki = 0.583
+#*# pid_kd = 1652.358
 #*#
 #*# [extruder]
 #*# control = pid
-#*# pid_kp = 21.544
-#*# pid_ki = 2.660
-#*# pid_kd = 43.625
-#*#
-#*# [input_shaper]
-#*# shaper_type_x = zv
-#*# shaper_freq_x = 55.4
-#*# shaper_type_y = zv
-#*# shaper_freq_y = 52.0
-#*#
-#*# [scanner]
-#*# mode = touch
-#*# scanner_touch_threshold = 3600
-#*# scanner_touch_speed = 2
-#*# scanner_touch_z_offset = 0.020
-#*#
-#*# [scanner model default]
-#*# model_coef = 1.4684362862288782,
-#*# 	1.7951901691538001,
-#*# 	0.7674254752956439,
-#*# 	0.4380257583831849,
-#*# 	0.49333915420336705,
-#*# 	0.2892015664942636,
-#*# 	-0.4467596268478895,
-#*# 	-0.33744070457752773,
-#*# 	0.3676382575289,
-#*# 	0.26610346697658943
-#*# model_domain = 3.2028592316275664e-07,3.344276893551813e-07
-#*# model_range = 0.200000,5.100000
-#*# model_temp = 37.236342
-#*# model_offset = 0.00000
-#*# model_mode = touch
-#*# model_fw_version = CARTOGRAPHER K1 5.1.0
+#*# pid_kp = 22.731
+#*# pid_ki = 2.755
+#*# pid_kd = 46.882
