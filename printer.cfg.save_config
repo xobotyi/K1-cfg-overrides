@@ -24,7 +24,7 @@
 #*# mode = touch
 #*# scanner_touch_threshold = 3600
 #*# scanner_touch_speed = 2
-#*# scanner_touch_z_offset = 0.040
+#*# scanner_touch_z_offset = 0.020
 #*#
 #*# [scanner model default]
 #*# model_coef = 1.4684362862288782,
