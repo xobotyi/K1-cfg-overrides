@@ -17,9 +17,9 @@
 #*# [cartographer scan_model default]
 #*# coefficients = 1.395489847993822,1.8587085167005108,0.8485690910718839,0.3733032491331284,0.5192473243373606,0.8453538593340786,-0.3444476266311487,-0.9499609103815554,0.3817532178667065,0.5758808946115305
 #*# domain = 3.1709438608599356e-07,3.344803847234486e-07
-#*# z_offset = 0
+#*# z_offset = 0.025
 #*# reference_temperature = 29.7
-#*# software_version = 1.4.0
+#*# software_version = 1.4.2
 #*# mcu_version = CARTOGRAPHER K1 5.1.0
 #*#
 #*# [input_shaper]
